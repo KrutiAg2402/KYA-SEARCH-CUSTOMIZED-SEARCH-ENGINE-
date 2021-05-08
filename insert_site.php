@@ -1,3 +1,8 @@
+//this will work after we create a database table on phpMyAdmin from Xampp server 
+code will add the site data on to your database table which can be accessed later in result page view 
+
+
+
 <!DOCTYPE html>
 <html>
 	<head>
